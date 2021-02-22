@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 
 I'm Muulsh
+
+![Muulsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muulsh&show_icons=true&hide_border=true&theme=dark)
